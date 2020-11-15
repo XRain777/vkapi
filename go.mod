@@ -1,4 +1,4 @@
-module github.com/azzzak/vkapi
+module github.com/XRain777/vkapi
 
 go 1.12
 
